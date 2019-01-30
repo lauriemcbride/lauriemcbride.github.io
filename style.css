@@ -3,11 +3,13 @@ body {
 }
 
 #photo {
-  float: left;
+  float: left; 
+  border-radius: 8px;
 }
 
 .intro {
   text-align: center;
+  padding: 20px;
 }
 
 h1 {
