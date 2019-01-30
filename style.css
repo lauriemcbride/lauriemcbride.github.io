@@ -10,7 +10,8 @@ body {
 
 #photo {
   float: left; 
-  border-radius: 8px;
+  border-radius: 10px;
+  display: inline;
 }
 
 .intro {
