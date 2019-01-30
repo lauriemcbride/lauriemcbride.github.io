@@ -1,6 +1,19 @@
+body {
+  font-family: "Garamond", serif;
+}
+
+#photo {
+  float: left;
+}
+
 .intro {
   text-align: center;
 }
-p {
 
+h1 {
+  font-size: 56px;
+}
+
+p {
+padding: 20px;
 }
