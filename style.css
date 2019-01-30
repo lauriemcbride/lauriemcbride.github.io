@@ -10,14 +10,6 @@ body {
 	padding: 10px 150px 10px 150px;
 }
 
-#photo {
-  float: left; 
-  border-radius: 10px;
-  display: inline;
-  width: 40px;
-  height: 60px;
-}
-
 .intro {
   text-align: center;
   padding: 20px;
