@@ -1,5 +1,7 @@
 body {
   font-family: "Garamond", serif;
+	text-align: center;
+	padding: 20px;
 }
 
 .container {
@@ -10,15 +12,7 @@ body {
 	padding: 10px 150px 10px 150px;
 }
 
-.intro {
-  text-align: center;
-  padding: 20px;
-}
-
 h1 {
   font-size: 56px;
 }
 
-p {
-padding: 5px;
-}
