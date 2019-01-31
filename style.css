@@ -57,6 +57,7 @@ p {
 #photo { 
 	height: 280px;
 	width: 208px;
+	float: left;
 }
 
 #photo img {
