@@ -50,6 +50,10 @@ p {
 	border-bottom: 1px solid #fcfcfc;
 }
 
+#body-education {
+	margin: 60px auto 0;
+}
+
 #degree {
 	font-style: italic;
 }
