@@ -23,7 +23,12 @@ body {
 }
 
 h1 {
-  font-size: 56px;
+  	font-size: 56px;
+	text-align: center;
+}
+
+p {
+	text-align: center;
 }
 
 #photo { 
