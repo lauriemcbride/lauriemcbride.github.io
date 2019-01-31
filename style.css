@@ -12,7 +12,8 @@ body {
 }
 
 #header-summary {
-	margin: 20px 100px; 40px
+	width: 600px;
+	margin: 40px auto;
 }
 
 .location {
