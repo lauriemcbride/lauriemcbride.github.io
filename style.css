@@ -6,6 +6,14 @@ body {
 	background: #35373a;
 }
 
+#container {
+	width: 900px;
+}
+
+.date {
+	float: right
+}
+
 h1 {
   font-size: 56px;
 }
