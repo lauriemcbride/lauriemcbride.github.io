@@ -14,9 +14,6 @@ body {
 	margin: auto 60px;
 }
 
-.job {
-	float: left;
-}
 
 .date {
 	float: right
@@ -25,8 +22,6 @@ body {
 #body {
 	margin: 0 0 20px
 }
-
-
 
 h1 {
   	font-size: 56px;
