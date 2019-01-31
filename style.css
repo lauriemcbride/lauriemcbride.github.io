@@ -8,11 +8,11 @@ body {
 #container {
 	width: 900px;
 	margin: auto;
+	padding: 20px;
 }
 
 #header {
 	margin: auto 40px;
-	padding: 20px;
 }
 
 .location {
@@ -24,6 +24,7 @@ body {
 
 #body {
 	margin: 0 0 20px;
+	padding: 20px;
 }
 
 h1 {
