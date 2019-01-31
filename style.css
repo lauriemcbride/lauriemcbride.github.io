@@ -47,6 +47,10 @@ p {
 	border-bottom: 1px solid #fcfcfc;
 }
 
+#degree {
+	font-style: italic;
+}
+
 #photo { 
 	height: 104px;
 	width: 140px;
