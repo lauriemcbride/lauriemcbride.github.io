@@ -1,6 +1,5 @@
 body {
   font-family: "Garamond", serif;
-	text-align: center;
 	font-size: 16px;
 	color: white;
 	background: #35373a;
@@ -8,6 +7,7 @@ body {
 
 #container {
 	width: 900px;
+	margin: auto;
 }
 
 .date {
