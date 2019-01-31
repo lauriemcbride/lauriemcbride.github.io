@@ -13,6 +13,8 @@ body {
 
 #header-summary {
 	text-align: center;
+	width: 600px;
+	margin: 40px auto;
 }
 
 .location {
