@@ -10,6 +10,10 @@ body {
 	margin: auto;
 }
 
+#body {
+	margin: 0 0 20px
+}
+
 .date {
 	float: right
 }
