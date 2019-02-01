@@ -65,6 +65,7 @@ p {
 	height: 200px;
 	float: left;
      	width: 140px;
+	border: 2px ridge #35373a;
 }
 
 #photo img {
