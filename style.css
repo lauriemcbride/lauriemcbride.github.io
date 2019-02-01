@@ -20,19 +20,9 @@ body {
 
 .location {
 	float: right;
-	padding: 5px;
 }
 .date {
 	float: right;
-	padding: 5px;
-}
-
-.company {
-	padding: 5px;
-}
-
-.job {
-	padding: 5px;
 }
 
 #body {
