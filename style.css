@@ -67,6 +67,7 @@ p {
 #photo { 
 	height: 280px;
 	width: 208px;
+	width: 20%;
 }
 
 #photo img {
