@@ -9,7 +9,7 @@ body {
 	width: 900px;
 	margin: auto;
 	padding: 20px;
-	border: 10px ridge #3FBFBF;
+	border: 20px solid #3FBFBF;
 }
 
 #header-summary {
