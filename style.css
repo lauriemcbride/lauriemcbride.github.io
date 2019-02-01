@@ -8,7 +8,7 @@ body {
 #container {
 	width: 900px;
 	margin: auto;
-	padding: 20px;
+	padding: 40px;
 	border: 1px solid #3fbfb2;
 	background: #fcfcfc
 }
@@ -65,7 +65,7 @@ p {
 	height: 240px;
 	float: left;
      	width: 160px;
-	border: 2px ridge #35373a;
+	border: 2px solid #35373a;
 }
 
 #photo img {
