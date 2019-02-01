@@ -64,7 +64,7 @@ p {
 	float: left;
      	width: 160px;
 	border: 2px solid #35373a;
-	margin: auto 40px;
+	margin: 0 40px auto;
 }
 
 #photo img {
