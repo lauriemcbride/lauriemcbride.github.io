@@ -64,8 +64,7 @@ p {
 #photo { 
 	height: 200px;
 	float: left;
-     	width: 160px;
-     	overflow-x: hidden;
+     	width: 140px;
 }
 
 #photo img {
