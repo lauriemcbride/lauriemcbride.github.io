@@ -62,9 +62,9 @@ p {
 }
 
 #photo { 
-	height: 200px;
+	height: 240px;
 	float: left;
-     	width: 140px;
+     	width: 160px;
 	border: 2px ridge #35373a;
 }
 
