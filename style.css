@@ -2,7 +2,7 @@ body {
   font-family: "Garamond", serif;
 	font-size: 16px;
 	color: #35373a;
-	background: #fcfcfc;
+	background: #e0e0e0;
 }
 
 #container {
@@ -10,7 +10,7 @@ body {
 	margin: auto;
 	padding: 20px;
 	border: 1px solid #35373a;
-	background: #E0E0E0;
+	background: #fcfcfc
 }
 
 #header-summary {
