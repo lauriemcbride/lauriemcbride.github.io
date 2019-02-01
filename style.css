@@ -67,5 +67,8 @@ p {
 #photo { 
 	height: 280px;
 	width: 208px;
+}
+
+#photo-name {
 	display: inline-block;
 }
