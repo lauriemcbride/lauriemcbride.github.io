@@ -69,6 +69,12 @@ p {
 	width: 208px;
 }
 
+#photo img {
+	max-width: 100%;
+	max-height: 100%;
+	margin: auto;
+}
+
 #photo-name {
 	display: inline-block;
 }
