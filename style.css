@@ -63,9 +63,9 @@ p {
 
 #photo { 
 	height: 280px;
-	width: 208px;
-	width: 20%;
-	display: inline-block;
+	float: left;
+     	width: 160px;
+     	overflow-x: hidden;
 }
 
 #photo img {
