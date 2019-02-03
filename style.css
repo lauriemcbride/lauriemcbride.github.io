@@ -15,7 +15,6 @@ body {
 
 #header-summary {
 	margin: 40px;
-	width: 75%;
 }
 
 .location {
@@ -50,11 +49,6 @@ p {
 #header-contact {
 	border-bottom: 1px solid #3FBFB2;
 	margin: 5px auto;
-	width: 75%;
-}
-
-#header-name {
-	width: 75%;
 }
 
 .header {
@@ -70,5 +64,7 @@ p {
 }
 
 #photo {
-	width: 25%;
+	width: 40px;
+	height: 40px;
+	border: 1px solid #35373a;
 }
